@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>cpu.svg</file>
+        <file>folder.svg</file>
+        <file>image.svg</file>
+        <file>settings.svg</file>
+    </qresource>
+    <qresource prefix="/window_icon">
+        <file>computer-cpu.svg</file>
+    </qresource>
+</RCC>
